@@ -10,7 +10,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const musicPlaylist = [
         'assets/music/lagu_1.mp3',
         'assets/music/lagu_2.mp3',
-        'assets/music/lagu_3.mp3'
+        'assets/music/lagu_3.mp3',
+        'assets/music/lagu_4.mp3', // Tambahkan koma di akhir setiap baris kecuali yang terakhir
+        'assets/music/lagu_5.mp3',
+        'assets/music/lagu_6.mp3',
+        'assets/music/lagu_7.mp3',
+        'assets/music/lagu_8.mp3'
     ];
     let currentMusicIndex = 0;
 
