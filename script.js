@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Playlists
     const musicPlaylist = [
+        'assets/music/LDR.mp3',
         'assets/music/lagu_1.mp3',
         'assets/music/lagu_2.mp3',
         'assets/music/lagu_3.mp3',
